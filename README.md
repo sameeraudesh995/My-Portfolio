@@ -10,9 +10,6 @@ Welcome to my Portfolio Website project! This project showcases my skills, proje
 - [Contributing](#contributing)
 - [License](#license)
 
-## Preview
-
-![Portfolio Website Preview](preview.png)
 
 ## Technologies Used
 
